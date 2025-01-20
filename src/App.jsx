@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // import Hero from "./Component/Hero"
-import Header from "./Component/Header";
-import Home from "./Component/Home";
-import About from "./Component/About";
-import ContactMe from "./Component/Contactme";
+import Header from "./Components/Header";
+import Home from "./Components/Home";
+import About from "./Components/About";
+import ContactMe from "./Components/ContactMe";
 
 
 

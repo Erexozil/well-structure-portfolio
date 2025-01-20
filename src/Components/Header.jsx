@@ -28,9 +28,9 @@ const Header = () => {
           Services
         </a></NavLink> 
 
-        <NavLink to="/portfolio"> <a href="#portfolio" className="nav-link">
+        {/* <NavLink to="/portfolio"> <a href="#portfolio" className="nav-link">
           Portfolio
-        </a> </NavLink>
+        </a> </NavLink> */}
 
         <NavLink to="/contact"> <a href="#contact" className="nav-link">
           Contact Me
