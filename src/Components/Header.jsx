@@ -17,7 +17,7 @@ const Header = () => {
         ☰
       </div>
       <nav className={`nav ${menuOpen ? "show" : ""}`}>
-       <NavLink to="/home"> <a href="#home" className="nav-link">
+       <NavLink to="/"> <a href="#home" className="nav-link">
           Home
         </a> </NavLink>
       <NavLink to="/about"> <a href="#about" className="nav-link">

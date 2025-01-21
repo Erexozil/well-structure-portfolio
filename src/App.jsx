@@ -5,6 +5,7 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import About from "./Components/About";
 import ContactMe from "./Components/ContactMe";
+import Services from "./Components/Services"
 
 
 
@@ -17,6 +18,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<ContactMe />} />
+        <Route path="/service" element={<Services />} />
       </Routes>
     </Router>
   );
